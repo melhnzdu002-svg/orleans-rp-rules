@@ -1,5 +1,2 @@
-# 📜 Règlement Orléans RP | FR
-
-Site de règlement officiel du serveur Orléans RP FiveM.
-
-## 📁 Structure du projet
+# orleans-rp-rules
+Site de règlement Orléans RP
